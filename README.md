@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I specialize in data science and analytics, with a
 - **Excel**: Expert (Data manipulation, Pivot tables, VBA)
 
 ### Cloud Technologies
+<img src="\images\aws.png" width="128" height="128" alt="AWS">
 ![AWS](<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hinto.com%2Fen%2Fpartners%2Faws&psig=AOvVaw3wScvZVd66Svzy6B0gUYtc&ust=1716308099810000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjWyYTQnIYDFQAAAAAdAAAAABAE" width="20" height="20">) ![Snowflake](URL_TO_SNOWFLAKE_IMAGE) ![BigQuery](URL_TO_BIGQUERY_IMAGE)
 - **AWS**: Skilled in Athena, Redshift
 - **Snowflake**: Experience in data warehousing solutions
