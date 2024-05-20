@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I specialize in data science and analytics, with a
 
 ## 📫 How to reach me
 
-- LinkedIn: [Eric Sebastian](https://linkedin.com/in/ericsebastian)
+- LinkedIn: [Eric Sebastian](www.linkedin.com/in/ericsanchezconde)
 
 ## ⚡ Fun fact
 
