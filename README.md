@@ -38,4 +38,4 @@ Welcome to my GitHub profile! I specialize in data science and analytics, with a
 
 ## ⚡ Fun fact
 
-- I'm an avid mountain biker and have biked through some of the world’s toughest trails!
+- I love going to the movies and eating popcorn.
